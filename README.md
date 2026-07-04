@@ -1,5 +1,6 @@
 
 🌐 Next-Gen Enterprise Network Architecture: VLAN Segmentation & Secure Wireless Bridging
+
 🎯 Executive Summary
 Traditional flat networks are prone to security risks and broadcast storms. This project implements a Robust Multi-VLAN Infrastructure designed to optimize traffic flow and enhance departmental security within a corporate environment. By leveraging Layer 2 Switching and Router-on-a-Stick topology, the design ensures high availability and modular scalability.
 🏗️ Technical Architecture
